@@ -1,4 +1,4 @@
-Here you can add text for your welcome section. This is the first text that a visitor will see, so you probably want to make this friendly and personable, or describe the purpose of this site.
+Thank you for checking out our charity for keeping our home! Right now is a terrifyting time in all of our lives and we need as much help as we can get. Before I get too much into the story, I guess I should introduce who "we" is. We are mayselfs my fiance/partner Lisa Heusner, our dog Magnolia and our two small kitties Zulu and Beaux.
 
 You can use any any [Markdown formatting](https://guides.github.com/features/mastering-markdown/) you'd like, or embed HTML. It's up to you :)
 
